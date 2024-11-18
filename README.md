@@ -24,9 +24,10 @@
 - **🔗 Collaboration**: Git, GitHub, Linux  
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryash-malviya&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📬 Let’s Connect:
 📧 **Email**: thesuryash@gmail.com  
 🌐 **Portfolio**: [Link Coming Soon!]  
-🖥️ **GitHub Projects**: [Explore my repos!](#)
+🖥️ **GitHub Projects Below**: [Updating]
+
+https://play.unity.com/en/games/08b6afe7-7fa2-4279-a772-30fa99b742f1/electric-flux-simulation
