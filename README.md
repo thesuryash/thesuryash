@@ -24,13 +24,7 @@
 - **🔗 Collaboration**: Git, GitHub, Linux  
 
 ---
-
-## 🎯 Goals:
-- 🤝 Solve meaningful problems through technology.  
-- 🌍 Push the boundaries of XR and AI to create impactful solutions.  
-- 🚀 Always learning, always growing.  
-
----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryash-malviya&show_icons=true&theme=radical)
 
 ## 📬 Let’s Connect:
 📧 **Email**: thesuryash@gmail.com  
