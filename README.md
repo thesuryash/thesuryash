@@ -33,6 +33,6 @@
 ---
 
 ## 📬 Let’s Connect:
-📧 **Email**: sm2868@cornell.edu  
+📧 **Email**: thesuryash@gmail.com  
 🌐 **Portfolio**: [Link Coming Soon!]  
 🖥️ **GitHub Projects**: [Explore my repos!](#)
