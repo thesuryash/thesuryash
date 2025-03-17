@@ -24,8 +24,6 @@
 - **🔗 Collaboration**: Git, GitHub, Linux  
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryash-malviya&layout=donut&include_forks=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryash-malviya&hide_progress=true)
 ---
 ## 📬 Let’s Connect:
 📧 **Email**: thesuryash@gmail.com  
