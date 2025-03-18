@@ -19,9 +19,9 @@
 ---
 
 ## 🛠️ Tech Stack:
-- **💻 Programming**: C#, Python, Java, R  
-- **🛠️ Tools**: Unity, Blender, Fusion 360, Uptale  
-- **🔗 Collaboration**: Git, GitHub, Linux  
+- **💻 Programming**: C#, Python, Java, R, Dart  
+- **🛠️ Tools**: Unity, Blender, Fusion 360, Uptale, Meta Horizons World, Hardware Design  
+- **🔗 Collaboration**: Git, GitHub, Linux,   
 
 ---
 ---
