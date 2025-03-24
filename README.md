@@ -15,9 +15,10 @@ I'm a physicist, developer, and creative thinker passionate about combining **AI
 - **Languages:** Python, C++, C#, Java
 - **AI Tools:** PyTorch, TensorFlow, OpenAI API
 - **VR Development:** Unity (C#), Meta Horizon
-- **Quantum Computing:** Qiskit, IBM Quantum Experience
+- **Quantum Computing:** Qiskit
 - **Engineering Design:** CAD, 3D Printing, Laser Cutting
 - **Hardware Experience:** Arduino, Electronics Integration
+- **GPU:** Numba CUDA, MPS
 
 ### 🔬 Physics Focus
 - **Quantum Mechanics:** Stern-Gerlach Experiment, Ket Notation
