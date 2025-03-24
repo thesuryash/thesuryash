@@ -25,30 +25,6 @@ I'm a physicist, developer, and creative thinker passionate about combining **AI
 - **Research Interests:** Magnetic Fields, Electric Fields Visualization
 
 ---
-
-## 📂 Projects
-### 🔥 AI & VR Integration
-- **[AI-Driven VR Environment](https://github.com/your-username/project-link)**
-   - Developed an immersive VR environment with real-time AI-enhanced interactions.
-   - Integrated Unity ML-Agents for dynamic user experiences.
-
-- **[Emotion AI Model (Python 'love' Library)](https://github.com/your-username/project-link)**
-   - Designed a Python library for teaching AI models to interpret emotional responses.
-
----
-
-### 🧲 Quantum Computing
-- **[Quantum Field Visualizer](https://github.com/your-username/project-link)**
-   - Simulated quantum field behavior using Qiskit for educational visualization.
-   - Integrated visual feedback to enhance learning.
-
----
-
-### 🏗️ Engineering & Design
-- **[Magnetic Coil Simulation](https://github.com/your-username/project-link)**
-   - Created a dynamic Unity simulation to visualize magnetic coil effects.
-   - Integrated ProBuilder for efficient coil geometry rendering.
-
 ---
 
 ## 🌍 Research & Academic Contributions
@@ -62,15 +38,14 @@ I'm a physicist, developer, and creative thinker passionate about combining **AI
 ## 📚 Certifications & Learning
 - 🟢 **CUDA Basics** — NVIDIA’s CUDA platform for GPU acceleration
 - 🟡 **Unity Development** — Meta Horizon integration for VR
-- 🔵 **Quantum Mechanics** — David McIntyre’s Quantum Mechanics course
+- 🔵 **Quantum Mechanics** — David McIntyre’s Quantum Mechanics courses
 
 ---
 
 ## 📬 Connect with Me
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
-- **Email:** your.email@example.com
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/thesuryash)
+- **GitHub:** [github.com/your-username](https://github.com/thesuryash)
+- **Email:** thesuryash@gmail.com
 
 ---
 
