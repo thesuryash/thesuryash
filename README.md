@@ -30,8 +30,8 @@ I'm a physicist, developer, and creative thinker passionate about combining **AI
 ## 🌍 Research & Academic Contributions
 - **Physics Education Research Project**
    - Developed interactive simulations for students learning electric and magnetic field dynamics.
-- **Dynamic Simulation for Electric Fields**
-   - JavaScript-based project enhancing students' understanding of electric field lines.
+- **3D model Development**
+   - Python and Blender-based models to speed the process of developing 3d models.
 
 ---
 
