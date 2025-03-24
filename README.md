@@ -12,7 +12,7 @@ I'm a physicist, developer, and creative thinker passionate about combining **AI
 
 ## 🛠️ Skills & Expertise
 ### 🔍 Technical Skills
-- **Languages:** Python, C++, C#, JavaScript
+- **Languages:** Python, C++, C#, Java
 - **AI Tools:** PyTorch, TensorFlow, OpenAI API
 - **VR Development:** Unity (C#), Meta Horizon
 - **Quantum Computing:** Qiskit, IBM Quantum Experience
