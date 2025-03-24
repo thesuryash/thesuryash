@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Suryash (Ruri)
+# 👋 Hi, I'm Suryash
 
 ### 🚀 About Me
 I'm a physicist, developer, and creative thinker passionate about combining **AI**, **VR**, and **Quantum Computing** to push the boundaries of immersive technology. I'm currently exploring:
