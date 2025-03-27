@@ -27,7 +27,7 @@ I'm a physicist, developer, and creative thinker passionate about combining **AI
 
 ---
 ### My Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/thesuryash/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesuryash&layout=pie)](https://github.com/thesuryash/github-readme-stats)
 ---
 
 ## 🌍 Research & Academic Contributions
