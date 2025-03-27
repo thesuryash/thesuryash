@@ -26,6 +26,8 @@ I'm a physicist, developer, and creative thinker passionate about combining **AI
 - **Research Interests:** Magnetic Fields, Electric Fields Visualization
 
 ---
+### My Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/thesuryash/github-readme-stats)
 ---
 
 ## 🌍 Research & Academic Contributions
