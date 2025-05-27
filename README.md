@@ -45,7 +45,7 @@ I'm a physicist, developer, and creative thinker passionate about combining **AI
 
 ## 📬 Connect with Me
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/thesuryash)
-- **GitHub:** [github.com/your-username](https://github.com/thesuryash)
+- **GitHub:** [github.com/thesuryash](https://github.com/thesuryash)
 - **Email:** thesuryash@gmail.com
 
 ---
