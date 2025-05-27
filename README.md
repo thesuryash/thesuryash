@@ -18,7 +18,7 @@ I'm a physicist, developer, and creative thinker passionate about combining **AI
 - **Quantum Computing:** Qiskit
 - **Engineering Design:** CAD, 3D Printing, Laser Cutting
 - **Hardware Experience:** Arduino, Electronics Integration
-- **GPU:** Numba CUDA, MPS
+- **GPU:** Numba CUDA, MLX
 
 ### 🔬 Physics Focus
 - **Quantum Mechanics:** Stern-Gerlach Experiment, Ket Notation
