@@ -8,6 +8,7 @@ I'm a physicist, developer, and creative thinker passionate about combining **AI
 - 🎨 **VR design with Unity**
 - 🔬 **Physics Education Research**
 
+check my portfolio at suryash.com
 ---
 
 ## 🛠️ Skills & Expertise
